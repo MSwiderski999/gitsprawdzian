@@ -1,0 +1,194 @@
+    1  mkdir
+    2  mkdir sus
+    3  cd sus
+    4  git init sus
+    5  touch plik
+    6  mkdir susFolder
+    7  mkdir sus
+    8  git init sus
+    9  cd sus
+   10  touch amogus
+   11  mkdir susFolder
+   12  cd susFolder
+   13  touch amogus1, amogus2
+   14  ls
+   15  vi amogus1
+   16  rm amogus1,
+   17  cd ./
+   18  cd ../
+   19  git remote add origin https://github.com/MSwiderski999/impostor
+   20  git add .
+   21  git status
+   22  git commit -m "podejrzany commit"
+   23  git push
+   24  git push origin master
+   25  git pull
+   26  git status
+   27  ls
+   28  git pull origin master
+   29  mkdir sus
+   30  git init
+   31  cd sus
+   32  git init sus
+   33  cd sus
+   34  touch amogus
+   35  git clone https://github.com/MSwiderski999/impostor
+   36  cd impostor
+   37  touch amogus
+   38  mkdir podejrzanyFolder
+   39  touch amogus1 amogus2
+   40  ls
+   41  rm amogus1 amogus2
+   42  ls
+   43  cd podejrzanyFolder
+   44  touch amogus1 amogus2
+   45  ls
+   46  git push
+   47  git add .
+   48  cd ../
+   49  git status
+   50  git add .
+   51  git commit -m "crewmate"
+   52  git push
+   53  echo "sus amogus impostor sussy" > plik
+   54  rm plik
+   55  echo "sus amogus" > niePlik
+   56  git status
+   57  git add niePlik
+   58  git push
+   59  git pull
+   60  git commit -m "kurwaaaaaaaaa"
+   61  git push
+   62  mkdir amongus
+   63  git init
+   64  touch ruszczka rozyczka rozczka roszdzka
+   65  vi ruszczka
+   66  cat ruszczka
+   67  git commit -m "sus"
+   68  git add .
+   69  git init
+   70  git commit -m "sus"
+   71  git add .
+   72  git status
+   73  git clone https://github.com/MSwiderski99/swiss
+   74  git clone https://github.com/MSwiderski999/swiss
+   75  cd swiss
+   76  git checkout amogus
+   77  git checkout -b amogus
+   78  git checkout master
+   79  git checkout amogus
+   80  touch sus.txt impostor.txt
+   81  vi sus.txt
+   82  cat sus.txt
+   83  git checkout master
+   84  touch sus.txt
+   85  vi sus.txt
+   86  vi sus.txt
+   87  git status
+   88  git add .
+   89  git commit -m "susi"
+   90  git checkout amogus
+   91  git status
+   92  cat sus.txt
+   93  echo "jajco" >> sus.txt
+   94  git add .
+   95  git commit -m "jajco"
+   96  git merge master
+   97  code
+   98  code .
+   99  git add .
+  100  git commit -m "kurwa"
+  101  ls
+  102  touch rudi
+  103  git clean -n
+  104  git clean -i
+  105  git log --grep="values"
+  106  git checkout -m master
+  107  git checkout amogus
+  108  git branch -m master
+  109  git branch master
+  110  git checkout master
+  111  git branch --delete
+  112  git branch --delete master
+  113  git checkout amogus
+  114  git branch --delete master
+  115  git branch -D master
+  116  git branch -m master
+  117  kurwaaaaaa
+  118  cd ojciecKazia
+  119  git log --author="jajco"
+  120  git branch karol
+  121  git branch
+  122  git checkout karol
+  123  git branch -m szymlin
+  124  git log --oneline --grep="database"
+  125  git log --oneline
+  126  git reset 31e6807
+  127  git status
+  128  git clean
+  129  git clean -f
+  130  git status
+  131  git restore sus.txt
+  132  git status
+  133  ls
+  134  rm sus.txt
+  135  git commit -m "skomituj usuniemcie susa"
+  136  git add .
+  137  git commit -m "skomituj usuniemcie susa"
+  138  git shortlog
+  139  git log --stat
+  140  git log -format="autorus: %am"
+  141  git log -format="autorus: %an"
+  142  git log --format="autorus: %an"
+  143  git log --format="autorus: %an krutki hash(jak siur rudiego): %h"
+  144  git log --format="autorus: %an krutki hash(jak siur rudiego): %h czas ale nie pamietam jak byl: %t"
+  145  git log --format="autorus: %an krutki hash(jak siur rudiego): %h czas ale nie pamietam jak byl: %s"
+  146  git log --format="autorus: %an krutki hash(jak siur rudiego): %h czas ale nie pamietam jak byl: %i"
+  147  git log --format="autorus: %an krutki hash(jak siur rudiego): %h czas ale nie pamietam jak byl: %a"
+  148  git log --format="autorus: %an krutki hash(jak siur rudiego): %h czas ale nie pamietam jak byl: %d"
+  149  git log --format="autorus: %an krutki hash(jak siur rudiego): %h czas ale nie pamietam jak byl: %c"
+  150  git log --format="autorus: %an krutki hash(jak siur rudiego): %h czas ale nie pamietam jak byl: %c"
+  151  git log --format="autorus: %an krutki hash(jak siur rudiego): %h czas ale nie pamietam jak byl: %A\"
+  152  :wq
+  153  "
+  154  git log --format="autorus: %an krutki hash(jak siur rudiego): %h czas ale nie pamietam jak byl: %c"
+  155  git log --format="autorus: %an krutki hash(jak siur rudiego): %h czas ale nie pamietam jak byl: %at"
+  156  git log --format="autorus: %an krutki hash(jak siur rudiego): %h czas ale nie pamietam jak byl: %as"
+  157  git log --format="autorus: %an krutki hash(jak siur rudiego): %h czas ale nie pamietam jak byl: %as nazwa: %s"
+  158  git log --format="autorus: %an krutki hash(jak siur rudiego): %h czas ale nie pamietam jak byl: %cr nazwa: %s"
+  159  git log --format="autorus: %an hash: %h czas: %as"
+  160  git log --format="autorus: %an hash: %h czas: %cr"
+  161  cat main.cpp
+  162      skomituj 
+  163      skomituj
+  164  echo "siur" > main.cpp
+  165  cat main.cpp
+  166  git restore main.cpp
+  167  cat main.cpp
+  168  mkdir sus
+  169  cd sus
+  170  git clone https://github.com/MSwiderski999/gitsprawdzian
+  171  touch ruszczka
+  172  git add .
+  173  touch ruszczka
+  174  git add .
+  175  git commit -m "test"
+  176  git push
+  177  touch krystyna.docx
+  178  echo "świderski" << krystyna.docx
+  179  :wq
+  180  q
+  181  qq
+  182  q
+  183  vi krystyna.docx
+  184  echo "swiderski" >> krystyna.docx
+  185  git add .
+  186  git commit -m "krystyna"
+  187  git push
+  188  git log --author="Janusz" - 2
+  189  git log --author="Janusz" -2
+  190  echo "amogus" >> sus
+  191  git add .
+  192  git commit -m "among us"
+  193  git push
+  194  history >> historia.txt
